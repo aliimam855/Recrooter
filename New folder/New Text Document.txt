@@ -1,0 +1,224 @@
+Abstract:
+
+
+In our culture today, managing human resources in firms, corporations, or organizations is a huge task for management. The Recruitment Management System (RMS) is the project's main objective for that reason.
+
+Therefore, this project's objective was to develop a recruitment management system that regulates corporate hiring practices while reducing hiring costs.
+
+Throughout the project's development, an evaluation of current systems and procedures was carried out. 
+The system was modeled using UML diagrams as well as use case, activity, and sequence diagrams.. The frontend uses Bootstrap, the backend uses PHP (Laravel), and the database is created using a database management system. The implementation's integrated development environment (IDE) is Visual Studio Code. The system is developed using PHP, MySQL, HTML, CSS, JQuery, and Bootstrap. 
+
+Effective recruitment management and the provision of a platform through which people can apply for suitable employment and recruiters can find their ideal candidates whenever it is convenient for them are the project's outcome and conclusion.
+
+
+CHAPTER 1: INTRODUCTION
+
+RMS (Recruitment Management System) is a web based application that will help connect job 
+seekers and organizations.Job searchers have access to job listings and the ability to search for jobs. Any job seeker can use this application to submit an application for a position that matches their qualifications. All job seekers can use this free, open-source website application.On the other hand, firms will quickly be able to hire applicants and locate their ideal candidates.HR managers can hire more quickly and access a bigger pool of candidates by employing a recruiting system.
+
+
+The recruitment process for an organization can be optimized by creating a user-friendly system. Additionally, this system might rank potential candidates according to their credentials and employer needs.
+
+This method will aid in a quick and effective hiring process that can cut expenses, improve a firm's standing with customers and job candidates, and guarantee that the greatest talent is found, engaged with, and hired into the organization.
+These solutions aim to boost the effectiveness of both job searchers and recruiters.
+
+
+1.2 Project overview
+We consider a company whose hiring procedure we can automate but which presently employs a manual procedure. Manual hiring requires time, increases the likelihood that the wrong individuals will be hired, costs the company money, or, to put it another way, is not a good economic approach.
+
+Selecting potential candidates for available positions and employing those that meet the organization's standards are both parts of the recruitment process.The primary responsibility of the recruitment management system is to identify potential employees that the business needs in order to help it find the best candidate who can help it find the best candidate who can help it achieve its objectives. 
+Recruitment is the deliberate process of building a pool of qualified candidates for a position within a company. The hiring and selecting procedure used by a corporation is very important.
+Employing qualified individuals can encourage stability and expansion.
+
+
+RMS (Recruitment Management System) is a web-based application that connects employers and job searchers. RMS wants to increase the efficiency of both recruiters and job seekers.
+
+
+1.3 Project Purpose
+A comprehensive system for managing the entire hiring process inside a business is known as a recruitment management system (RMS). It makes it easier for HR divisions inside a firm to share information. Similar to systems for performance management, payroll, and other systems, systems for recruitment management aid in streamlining hiring procedures and successfully managing hiring. The recruitment management system's main attributes, capabilities, and advantages are listed below:
+
+⮚ The employment process as a whole needs to be planned and structured.
+⮚ Processing applications from several apps fast, accurately, and consistently is made easier by this.
+⮚ minimizes the time and expense associated with hiring.
+⮚It facilitates the incorporation and integration of the many links, including the application system on the company's official website, unsolicited applications, recruitment outsourcing, and delegating final decision-making to the primary recruitment process.
+⮚ It keeps an active, automated database of candidates, streamlining talent management and boosting hiring process effectiveness.
+⮚ It gives job seekers, the hiring team at the organization, and the online application process a customizable, automated, and interactive interface.
+⮚ The website will be well-known throughout Bangladesh.
+⮚ The website will give employers and job seekers a new platform.
+
+The Recruitment Management System (RMS), a cutting-edge information system technology, aids in accelerating the hiring process while saving recruiters' time and money. 
+
+
+1.4 Background
+
+I want to create a user-friendly system based on a recruitment management system where the provider and the requester may both choose whatever services they want to offer. I worked hard to create a comprehensive system that will be reliable, secure, and most all, easy to use. 
+
+
+1.5 Benefits and Beneficiaries
+
+The following benefits are provided via online RMS:
+● The user interface of the system will be friendly, which will improve the hiring procedure.
+● enhances the hiring process.
+● efficiency and communication improvements.
+● The application process is automated.
+● increases the caliber of hires.
+● minimizes the time and expense associated with hiring.● Site will be popular all over Bangladesh.
+● Recruiters and Job Seekers will have a new platform thanks to the website.
+
+1.6 Stakeholders
+
+A person who could influence or be impacted by a project, strategy, or organization is referred to as a stakeholder. They could be internal or external, senior or junior, and at any level. The recruiters and job searchers are the system's stakeholders.
+● Job-Seekers.
+● Recruiters (HR, Hiring-manager, Employees).
+
+1.7 Proposed System Model
+I created this model to create a simple user interface for this technology. In order to understand and control the system architecture, I constructed this model.
+
+1.8 Modules of the RMS
+There are four different stakeholder kinds in this system. Here are some of them:
+
+
+1.8.1 Module of Job Seekers
+● Job seekers will be looked for according to their qualifications in appropriate positions.
+● Their employment specifics will be examined.
+● They can readily apply for these jobs.
+
+1.8.2 Module of HR
+● The login module handles user authentication.
+● HR will be in charge of profile updates and password changes.
+● HR will manage job maintenance.
+● HR will manage candidates' maintenance.
+● HR will manage employee maintenance.
+● HR will manage interview maintenance.
+● HR will manage the candidate's note maintenance.
+
+1.8.3 Module of Hiring-Manager (HM)
+● The login module handles user authentication.
+● HM will manage to update profile and change password.
+● HM will manage candidate interviews.
+● HM will manage candidates' reports.
+● HM will manage job reports.
+
+1.8.4 Module of Employees
+● User authentication is handled via the login module.
+● Employees will manage to update profiles and change passwords.
+● Employees will manage candidate interviews.
+● Employees will manage candidates' reports
+
+
+1.9 Project Schedule
+If I want to do the job on time, I must rapidly create a schedule. Additionally, it entails communication with urgent responsibilities.
+
+1.10 Objectives
+The creation of a recruiting management system is the aim of this project. This target will be achieved using the following objectives:
+
+● Designing or modeling the recruiting management system is necessary.
+● Systems will aid in increasing the effectiveness and lowering the cost of the hiring process.
+● Users get access to job listings and employment data.
+● This system must be trustworthy and easy to use for users of average intelligence.
+● The output needs to be precise, timely, and thorough.
+● Using a system will make the procedures for hiring new personnel more efficient and economical.
+● We can only hope that this system will benefit both job seekers and our organization.
+
+Any environment should support this web application. Data security must be taken seriously in the design. This could be provided through a login function that accepts usernames and passwords from both administrators and users. Thus, administrative responsibilities are considerably streamlined.
+
+
+
+CHAPTER 2: REQUIREMENT ENGINEERING
+2.1 Functional Requirements
+They are defined by the functional needs of a system or component. The system's actions are specified. User-stated functional needs are provided. It is vital to adhere to these requirements. It is necessary to comply with these standards.
+The following are the "Recruitment Management System's" functional prerequisites:
+
+2.1.1 Functional Requirements for Job Seekers & HR
+
+⮚ employment seekers will be able to look for jobs and employment details using the system.
+⮚ The technology will let job seekers submit job applications.
+⮚ HR will be unable to log in with an incorrect email address or password.
+⮚ HR will have access to the system to change passwords.
+⮚ HR will have access to the system to update individual information.
+⮚ HR will have access to the system to manage and create new job postings.
+⮚ HR will be able to manage and add new candidates thanks to the system.
+⮚ HR will be able to manage and add new staff thanks to the technology.
+⮚ HR will have access to the technology to manage interviews.
+
+2.1.2 Functional Requirements for Hiring-Manager
+
+⮚ HM (the hiring manager) won't be able to log in using an incorrect email address or password.
+⮚ HM will have access to changing passwords on the system.
+⮚ HM will have access to the system to update personal data.
+⮚ HM will have access to the system to manage interviews.
+⮚ HM will be able to manage candidate reports thanks to the system.
+⮚ HM will be able to see job reports thanks to the system.
+
+
+
+2.1.3 Functional Requirements for Employees
+⮚ Employees will be unable to login to the system using an incorrect email address or password.
+⮚ Employees will be able to modify passwords using the system.
+⮚ Employees will be able to update personal information using the system.
+⮚ Employees will be able to manage interviews thanks to the system.
+⮚ Employees will be able to handle candidate reports thanks to the system.
+
+2.2 Non-functional Requirements
+Non-functional requirements are those that are not directly related to the functions that the system performs. They may be in a position to relate to changing system properties like dependability, responsiveness, and storage capacity. On rare occasions, nonfunctional requirements may be connected to system features. The prominent qualities of the system may be either suggested or demanded by these situations. The system's usability, security, accessibility, and other new features might then be assessed by them. As a result, they frequently transcend beyond specific functional requirements in terms of fundamentality. Users of the system frequently find workarounds for system functions that don't usually fix their problems. Thus, the system might not be useable as a whole if a non-functional criterion is not met.
+
+The following are "Recruitment Management System"'s non-functional requirements:
+
+● Security: The management of sessions ensures the security of this program for all users. No one will be able to view a user's profile once they log out of the system without knowing their secret password. 
+● Speed: Based on their preferences, the system ought to be able to deliver users with swift outcomes.
+● Robustness:Errors should be effectively and speedily repaired by the system.
+● Reliability: A limited number of mistakes and little downtime should be produced by the system.
+ 
+● Size: Since there aren't any redundant instances in the database, memory usage won't increase.
+● Ease of use: The system must to be simple to use and have an uncomplicated user interface.
+● Portability: The System must work properly across a range of platforms.
+
+
+
+CHAPTER 3: SYSTEM ANALYSIS, DESIGN & SPECIFICATION
+
+3.1 Development Model
+
+The "Recruitment Management System" project is being developed using a model for incremental improvement. The waterfall model's flaws are addressed by this model.
+
+These models exhibit excellent performance when a project is separated into a number of independent, stand-alone components that operate independently of one another. Iterative enhancement and fast application are the two concepts that comprise incremental process models.
+
+Multiple design iterations are permitted by the iterative enhancement paradigm but not by the waterfall model.
+A product is made public after each cycle. Lessons learned have an impact on the cycle that follows.
+
+
+CHAPTER 4: SYSTEM TESTING
+4.1 Feature Testing
+Testing new features is viewed as a modification and upgrade to the current feature system. Here, new system capabilities for the most recent system will be shown. 
+These all aim to improve the efficacy, dependability, efficiency, and security of the online application.
+
+
+4.2 Test Strategies
+4.2.1 Test approach
+
+I employed two distinct kinds of testing to make sure my system was of the highest caliber. I mainly focused on functional and structural testing.
+
+● Black box testing, sometimes referred to as functional testing, is testing that overlooks a system's or component's internal workings in favor of concentrating only on the outputs generated in response to selected inputs and execution conditions.
+● Testing that considers the internal workings of a system or component is known as white-box testing, also known as structural testing and "glass box testing."
+
+
+CHAPTER 6: SUMMARY, CONCLUSION
+6.1 Project Summary
+
+The "RMS" project is developing a web application for recruiting to assist firms in managing their hiring procedures. PHP was used to create the RMS program, while HTML, JavaScript, and CSS were added for aesthetics. The backend program for the MySQL database was developed.
+Review of the social effects of the development of the current recruiting management system.
+
+6.2 Conclusion
+
+Businesses can utilize the Recruitment Management System, or RMS, as a platform to reduce their own hiring expenses while saving time and money. This study has the potential to fully eliminate or greatly minimize the anxiety associated with looking for work.The project's focus is on speedy and effective job seeking.By adding modules or functions that assist applicant testing as well as the recommendation of such individuals to businesses based on their performance and rating on the recruiting platform, the recruiting Management System may be made better.
+
+
+6.4 Limitations
+• There is no SMS alert feature available.
+• The portal is not search engine-friendly.
+• Possibility of unauthorized access
+6.5 Future Scope
+Numerous techniques can be used to make something easy to use. The coding can be expanded in certain places to increase functionality. There is currently no integrated system for managing employees (including payroll and leave) in the system that may be put into use soon. At this time, it is not possible to backup the database. Next, we may enable the backup facility to be bundled, allowing actions to be carried out utilizing historical data. 
+As new technology is developed, it will be feasible to upgrade the system and adapt it to the ideal environment. Emerging technologies may be utilized to increase security depending on the kind of securities that will be issued in the future.
+
+
